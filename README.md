@@ -51,7 +51,7 @@ Each folder contains:
 
 Feel free to explore, clone, or reach out! I'm always up for feedback, collaboration, or coffee chats ☕.
 
-- [LinkedIn](https://www.linkedin.com/in/raktim-dhar/)  
+- [LinkedIn](https://www.linkedin.com/in/raktim-dhar-07470282/)  
 - [Email](raktim.dhar.joy@gmail.com)  
 - [Resume](Resume) 
   
