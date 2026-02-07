@@ -52,7 +52,7 @@ Each folder contains:
 Feel free to explore, clone, or reach out! I'm always up for feedback, collaboration, or coffee chats ☕.
 
 - [LinkedIn](https://www.linkedin.com/in/raktim-dhar-07470282/)  
-- [Email](raktim.dhar.joy@gmail.com)  
+- [Email](https://www.raktim.dhar.joy@gmail.com)  
 - [Resume](https://drive.google.com/file/d/1kUSqqMPTrhW8dnvif2_Ui_5kxu6_J36y/view?usp=share_link) 
   
 
